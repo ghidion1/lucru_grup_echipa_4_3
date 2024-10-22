@@ -1,6 +1,6 @@
 <?php
     return [
-        'mysql:host=localhost;dbname=papp_lectia5',
+        'mysql:host=localhost;dbname=angajati_db',
         'root',
         '',
     ];
